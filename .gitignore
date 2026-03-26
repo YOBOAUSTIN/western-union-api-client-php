@@ -25,3 +25,4 @@ Homestead.json
 composer.lock
 
 *.p12
+tests/copilot_export_*.json
